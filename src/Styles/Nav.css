@@ -10,9 +10,11 @@ nav{
 }
 .nav_center_box{
   display: flex;
+  align-items: center;
 }
 .nav_right{
   display: flex;
+  align-items: center;
 }
 .person{
   display: flex;
