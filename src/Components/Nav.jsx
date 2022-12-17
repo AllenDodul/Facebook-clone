@@ -76,6 +76,12 @@ const Nav = () =>{
           alt="notification" 
           border="0"
         />
+        <img 
+          className="icon"
+          src="https://i.ibb.co/DK9KXXv/down-arrow.png"
+          alt="down-arrow" 
+          border="0"
+        />
       </div>
     </nav>
   )
