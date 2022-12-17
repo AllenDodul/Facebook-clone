@@ -1,5 +1,25 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  max-width: 1024px;
+  padding: 10px;
+}
+.nav_left{
+  display: flex;
+  align-items: center;
+}
+.nav_center_box{
+  display: flex;
+}
+.nav_right{
+  display: flex;
+}
+.person{
+  display: flex;
+}
 .logo{
   height: 40px;
+  padding: 5px;
 }
 .icon{
   height: 25px;
