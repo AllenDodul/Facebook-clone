@@ -18,6 +18,10 @@ nav{
 }
 .person{
   display: flex;
+  align-items: center;
+}
+.searchContainer{
+  display: flex;
 }
 .logo{
   height: 40px;
@@ -25,4 +29,5 @@ nav{
 }
 .icon{
   height: 25px;
+  padding: 10px;
 }
