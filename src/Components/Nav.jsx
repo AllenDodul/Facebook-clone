@@ -58,6 +58,24 @@ const Nav = () =>{
           />
           <h4>Dodulllll</h4>
         </div>
+        <img 
+          className="icon"
+          src="https://i.ibb.co/GCvmQCW/plus.png" 
+          alt="plus" 
+          border="0"
+        />
+        <img 
+          className="icon"
+          src="https://i.ibb.co/WnRjCfR/message.png" 
+          alt="message" 
+          border="0"
+        />
+        <img 
+          className="icon"
+          src="https://i.ibb.co/B6GBr3Z/notification.png" 
+          alt="notification" 
+          border="0"
+        />
       </div>
     </nav>
   )
